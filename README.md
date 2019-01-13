@@ -1,2 +1,2 @@
-# mlspecialization
+# Machine Learning Specialization
 This coursework demonstrated the proficiency in the exciting, high-demand field of Machine Learning through rigorous online coursework from leading Machine Learning researchers at the University of Washington. Through a series of practical case studies, I gained applied experience  in major areas of Machine Learning including Prediction, Classification, Clustering, and Information Retrieval. I learned to analyze large  and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data.
